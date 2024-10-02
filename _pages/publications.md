@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Soon...
 nav: true
 nav_order: 2
@@ -11,10 +11,10 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %}
 
 <div class="publications">
 
 {% bibliography %}
 
-</div>
+</div> -->
