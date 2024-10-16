@@ -5,7 +5,7 @@
     "image": "",
     "email": "obemba3@gatech.edu",
     "url": "https://bembaol.github.io",
-    "summary": "PhD Student @ Georgia Yech",
+    "summary": "PhD Student @ Georgia Tech",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -29,7 +29,7 @@
       "url": "http://inetintel.org/",
       "startDate": "2024-08-16",
       "endDate": "",
-      "summary": "Improving Multiple Origin AS prefix classification to better detect BGP hijacking. Co-advised by Prof. Cecilia Testart & Prof. Alberto Dainotti.",
+      "summary": "Improving Multiple Origin AS prefix and sub prefix classification to better detect BGP hijacking. Co-advised by Prof. Cecilia Testart & Prof. Alberto Dainotti.",
       "highlights": ["Internet Routing Security", "Internet Measurement", "BGP"]
     },
     {
