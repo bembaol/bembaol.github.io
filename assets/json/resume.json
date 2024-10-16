@@ -89,7 +89,7 @@
       "location": "Evry, France",
       "url": "https://www.telecom-sudparis.eu/en/",
       "area": "Systems and Network Security",
-      "studyType": "Master",
+      "studyType": "French Engineering Degree",
       "startDate": "2020-09-07",
       "endDate": "2022-06-16"
     },
@@ -106,7 +106,7 @@
   "teaching": [
     {
       "institution": "Georgia Institute of Technology, School of Computer Science",
-      "position": "Graduate Teaching Assistant",
+      "studyType": "Graduate Teaching Assistant",
       "location": "Atlanta, GA, USA",
       "area": "CS6250 - Computer Networks",
       "courses": ["Taught by Prof. Alberto Dainotti & Prof. Cecilia Testart"],
@@ -115,10 +115,10 @@
     },
     {
       "institution": "Georgia Institute of Technology, School of Electrical and Computer Engineering",
-      "position": "Graduate Teaching Assistant",
+      "studyType": "Graduate Teaching Assistant",
       "location": "Metz, France",
       "area": "ECE2031 - Digital Lab Design",
-      "courses": ["Prof. Simon Gautier"],
+      "courses": ["Taught by Prof. Simon Gautier"],
       "startDate": "2022-08-15",
       "endDate": "2022-12-09"
     }
